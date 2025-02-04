@@ -1,2 +1,1 @@
-# aaa3865aaa.github.io
-hexo博客
+[中文文档&DOCS](https://docs.hojun.cn/sakura/docs/)
